@@ -1,1 +1,1 @@
-# Java-Core
+# Logos IT Academy
